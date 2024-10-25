@@ -28,4 +28,4 @@ A **Comunidade Dev de Verdade** foi criada com o propósito de desenvolver habil
 
 Agradecemos por visitar o repositório e esperamos que você se inspire a criar e desenvolver junto conosco! :sparkles:
 
-<img src="https://github.com/user-attachments/assets/1b2bb498-ba15-47b0-b919-2db34e04fc8f" width="200" height="200" alt="oni_mask_samurai_vector_logo">
+<img src="https://github.com/user-attachments/assets/8e7ecf65-6790-4694-b323-bc43d0469265" width="200" height="200" alt="oni_mask_samurai_vector_logo">
