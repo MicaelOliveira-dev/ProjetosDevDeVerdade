@@ -24,6 +24,10 @@ A **Comunidade Dev de Verdade** foi criada com o propósito de desenvolver habil
  - **:man_technologist: Khian Gabriel**
    - **Função: Admin | Backend**
    - **GitHub: [Khiangabriel](https://github.com/Khiangabriel)**
+
+ - **:man_technologist: Roger**
+   - **Função: Admin | Backend**
+   - **GitHub: [rogerestudo](https://github.com/rogerestudo)**
 ---
 
 Agradecemos por visitar o repositório e esperamos que você se inspire a criar e desenvolver junto conosco! :sparkles:
