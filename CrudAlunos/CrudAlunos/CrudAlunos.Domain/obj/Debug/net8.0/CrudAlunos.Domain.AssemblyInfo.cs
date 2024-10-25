@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CrudAlunos.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+30234a349f7b715e4c559a59866fed01dedf4ad0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6268ce140b51833e7d78233c5e0129c9d0f7e9fc")]
 [assembly: System.Reflection.AssemblyProductAttribute("CrudAlunos.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CrudAlunos.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
