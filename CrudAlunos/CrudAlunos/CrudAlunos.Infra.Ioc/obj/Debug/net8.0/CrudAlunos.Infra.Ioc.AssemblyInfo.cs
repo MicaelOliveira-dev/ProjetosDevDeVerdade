@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("CrudAlunos")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("CrudAlunos.Infra.Ioc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d5060900243f94fa29446345620d7c4a430daa8")]
-[assembly: System.Reflection.AssemblyProductAttribute("CrudAlunos")]
-[assembly: System.Reflection.AssemblyTitleAttribute("CrudAlunos")]
+[assembly: System.Reflection.AssemblyProductAttribute("CrudAlunos.Infra.Ioc")]
+[assembly: System.Reflection.AssemblyTitleAttribute("CrudAlunos.Infra.Ioc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

@@ -3,7 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudAlunos", "CrudAlunos\CrudAlunos.csproj", "{311AE6D4-4707-42C3-A17B-1C1872DEED27}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CrudAlunos.API", "CrudAlunos\CrudAlunos.API.csproj", "{311AE6D4-4707-42C3-A17B-1C1872DEED27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudAlunos.Application", "CrudAlunos.Application\CrudAlunos.Application.csproj", "{96722A1D-07ED-4B0A-9F6D-204BA86C20A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudAlunos.Domain", "CrudAlunos.Domain\CrudAlunos.Domain.csproj", "{484076CE-6DEF-43B9-9909-5E648C71E1C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudAlunos.Infra.Data", "CrudAlunos.infra.Data\CrudAlunos.Infra.Data.csproj", "{59AB9564-354F-4AB9-91CF-7EE15B709E37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudAlunos.Infra.Ioc", "CrudAlunos.Infra.Ioc\CrudAlunos.Infra.Ioc.csproj", "{13824D09-8368-4AFF-BE9D-250B8134107F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +23,22 @@ Global
 		{311AE6D4-4707-42C3-A17B-1C1872DEED27}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{311AE6D4-4707-42C3-A17B-1C1872DEED27}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{311AE6D4-4707-42C3-A17B-1C1872DEED27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96722A1D-07ED-4B0A-9F6D-204BA86C20A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96722A1D-07ED-4B0A-9F6D-204BA86C20A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96722A1D-07ED-4B0A-9F6D-204BA86C20A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96722A1D-07ED-4B0A-9F6D-204BA86C20A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{484076CE-6DEF-43B9-9909-5E648C71E1C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{484076CE-6DEF-43B9-9909-5E648C71E1C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{484076CE-6DEF-43B9-9909-5E648C71E1C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{484076CE-6DEF-43B9-9909-5E648C71E1C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59AB9564-354F-4AB9-91CF-7EE15B709E37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59AB9564-354F-4AB9-91CF-7EE15B709E37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59AB9564-354F-4AB9-91CF-7EE15B709E37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59AB9564-354F-4AB9-91CF-7EE15B709E37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13824D09-8368-4AFF-BE9D-250B8134107F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13824D09-8368-4AFF-BE9D-250B8134107F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13824D09-8368-4AFF-BE9D-250B8134107F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13824D09-8368-4AFF-BE9D-250B8134107F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

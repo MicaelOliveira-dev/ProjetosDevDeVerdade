@@ -433,9 +433,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Micael\\Desktop\\ProjetosDevDeVerdade\\CrudAlunos\\CrudAlunos\\CrudAlunos\\CrudAlunos.csproj",
-      "projectName": "CrudAlunos",
-      "projectPath": "C:\\Users\\Micael\\Desktop\\ProjetosDevDeVerdade\\CrudAlunos\\CrudAlunos\\CrudAlunos\\CrudAlunos.csproj",
+      "projectUniqueName": "C:\\Users\\Micael\\Desktop\\ProjetosDevDeVerdade\\CrudAlunos\\CrudAlunos\\CrudAlunos\\CrudAlunos.API.csproj",
+      "projectName": "CrudAlunos.API",
+      "projectPath": "C:\\Users\\Micael\\Desktop\\ProjetosDevDeVerdade\\CrudAlunos\\CrudAlunos\\CrudAlunos\\CrudAlunos.API.csproj",
       "packagesPath": "C:\\Users\\Micael\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Micael\\Desktop\\ProjetosDevDeVerdade\\CrudAlunos\\CrudAlunos\\CrudAlunos\\obj\\",
       "projectStyle": "PackageReference",
