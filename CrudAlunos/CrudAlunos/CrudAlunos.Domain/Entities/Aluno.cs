@@ -1,15 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.ComponentModel.DataAnnotations;
 
 namespace CrudAlunos.Domain.Entities
 {
     public class Aluno
     {
+        [Key]
         public Guid NMatricula { get; set; }
         [Required(ErrorMessage = "Nome é Obrigatório")]
         [StringLength(100, ErrorMessage = "O nome não pode ter mais de 100 caracteres")]

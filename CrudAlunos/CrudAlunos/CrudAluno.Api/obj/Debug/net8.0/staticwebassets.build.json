@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yeG9iBqPSmE1kwpJx0OojxGvVujGVXzrVfvRKnlc15g=",
+  "Source": "CrudAluno.Api",
+  "BasePath": "_content/CrudAluno.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

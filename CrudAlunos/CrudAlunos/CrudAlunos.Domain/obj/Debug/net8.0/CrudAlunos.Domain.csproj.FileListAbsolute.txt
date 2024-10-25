@@ -10,3 +10,6 @@ C:\Users\Micael\Desktop\ProjetosDevDeVerdade\CrudAlunos\CrudAlunos\CrudAlunos.Do
 C:\Users\Micael\Desktop\ProjetosDevDeVerdade\CrudAlunos\CrudAlunos\CrudAlunos.Domain\obj\Debug\net8.0\refint\CrudAlunos.Domain.dll
 C:\Users\Micael\Desktop\ProjetosDevDeVerdade\CrudAlunos\CrudAlunos\CrudAlunos.Domain\obj\Debug\net8.0\CrudAlunos.Domain.pdb
 C:\Users\Micael\Desktop\ProjetosDevDeVerdade\CrudAlunos\CrudAlunos\CrudAlunos.Domain\obj\Debug\net8.0\ref\CrudAlunos.Domain.dll
+C:\Users\Micael\Desktop\ProjetosDevDeVerdade\CrudAlunos\CrudAlunos\CrudAlunos.Domain\bin\Debug\net8.0\CrudAlunos.Domain.runtimeconfig.json
+C:\Users\Micael\Desktop\ProjetosDevDeVerdade\CrudAlunos\CrudAlunos\CrudAlunos.Domain\obj\Debug\net8.0\CrudAlunos.Domain.csproj.AssemblyReference.cache
+C:\Users\Micael\Desktop\ProjetosDevDeVerdade\CrudAlunos\CrudAlunos\CrudAlunos.Domain\obj\Debug\net8.0\CrudAlunos.Domain.genruntimeconfig.cache
