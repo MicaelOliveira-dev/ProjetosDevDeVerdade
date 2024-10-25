@@ -433,11 +433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Micael\\Desktop\\ProjetosDevDeVerdade\\CrudAlunos\\CrudAlunos\\CrudAlunos\\CrudAlunos.API.csproj",
-      "projectName": "CrudAlunos.API",
-      "projectPath": "C:\\Users\\Micael\\Desktop\\ProjetosDevDeVerdade\\CrudAlunos\\CrudAlunos\\CrudAlunos\\CrudAlunos.API.csproj",
+      "projectUniqueName": "C:\\Users\\Micael\\Desktop\\ProjetosDevDeVerdade\\CrudAlunos\\CrudAlunos\\CrudAluno.Api\\CrudAluno.Api.csproj",
+      "projectName": "CrudAluno.Api",
+      "projectPath": "C:\\Users\\Micael\\Desktop\\ProjetosDevDeVerdade\\CrudAlunos\\CrudAlunos\\CrudAluno.Api\\CrudAluno.Api.csproj",
       "packagesPath": "C:\\Users\\Micael\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Micael\\Desktop\\ProjetosDevDeVerdade\\CrudAlunos\\CrudAlunos\\CrudAlunos\\obj\\",
+      "outputPath": "C:\\Users\\Micael\\Desktop\\ProjetosDevDeVerdade\\CrudAlunos\\CrudAlunos\\CrudAluno.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Micael\\AppData\\Roaming\\NuGet\\NuGet.Config",

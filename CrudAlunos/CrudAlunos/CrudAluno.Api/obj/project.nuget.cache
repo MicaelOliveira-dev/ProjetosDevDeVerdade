@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u986nR7o8k8=",
+  "dgSpecHash": "d0hXUgqA+/o=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Micael\\Desktop\\ProjetosDevDeVerdade\\CrudAlunos\\CrudAlunos\\CrudAlunos\\CrudAlunos.Api.csproj",
+  "projectFilePath": "C:\\Users\\Micael\\Desktop\\ProjetosDevDeVerdade\\CrudAlunos\\CrudAlunos\\CrudAluno.Api\\CrudAluno.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Micael\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Micael\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

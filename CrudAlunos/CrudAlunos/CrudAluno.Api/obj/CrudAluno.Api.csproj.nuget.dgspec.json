@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Micael\\Desktop\\ProjetosDevDeVerdade\\CrudAlunos\\CrudAlunos\\CrudAlunos\\CrudAlunos.APÌ.csproj": {}
+    "C:\\Users\\Micael\\Desktop\\ProjetosDevDeVerdade\\CrudAlunos\\CrudAlunos\\CrudAluno.Api\\CrudAluno.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Micael\\Desktop\\ProjetosDevDeVerdade\\CrudAlunos\\CrudAlunos\\CrudAlunos\\CrudAlunos.APÌ.csproj": {
+    "C:\\Users\\Micael\\Desktop\\ProjetosDevDeVerdade\\CrudAlunos\\CrudAlunos\\CrudAluno.Api\\CrudAluno.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Micael\\Desktop\\ProjetosDevDeVerdade\\CrudAlunos\\CrudAlunos\\CrudAlunos\\CrudAlunos.APÌ.csproj",
-        "projectName": "CrudAlunos.APÌ",
-        "projectPath": "C:\\Users\\Micael\\Desktop\\ProjetosDevDeVerdade\\CrudAlunos\\CrudAlunos\\CrudAlunos\\CrudAlunos.APÌ.csproj",
+        "projectUniqueName": "C:\\Users\\Micael\\Desktop\\ProjetosDevDeVerdade\\CrudAlunos\\CrudAlunos\\CrudAluno.Api\\CrudAluno.Api.csproj",
+        "projectName": "CrudAluno.Api",
+        "projectPath": "C:\\Users\\Micael\\Desktop\\ProjetosDevDeVerdade\\CrudAlunos\\CrudAlunos\\CrudAluno.Api\\CrudAluno.Api.csproj",
         "packagesPath": "C:\\Users\\Micael\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Micael\\Desktop\\ProjetosDevDeVerdade\\CrudAlunos\\CrudAlunos\\CrudAlunos\\obj\\",
+        "outputPath": "C:\\Users\\Micael\\Desktop\\ProjetosDevDeVerdade\\CrudAlunos\\CrudAlunos\\CrudAluno.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Micael\\AppData\\Roaming\\NuGet\\NuGet.Config",

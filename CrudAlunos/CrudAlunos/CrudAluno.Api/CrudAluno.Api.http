@@ -1,0 +1,6 @@
+@CrudAluno.Api_HostAddress = http://localhost:5010
+
+GET {{CrudAluno.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
