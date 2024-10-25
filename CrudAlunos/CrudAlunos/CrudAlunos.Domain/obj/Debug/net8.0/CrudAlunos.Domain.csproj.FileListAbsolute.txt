@@ -1,0 +1,12 @@
+C:\Users\Micael\Desktop\ProjetosDevDeVerdade\CrudAlunos\CrudAlunos\CrudAlunos.Domain\bin\Debug\net8.0\CrudAlunos.Domain.deps.json
+C:\Users\Micael\Desktop\ProjetosDevDeVerdade\CrudAlunos\CrudAlunos\CrudAlunos.Domain\bin\Debug\net8.0\CrudAlunos.Domain.dll
+C:\Users\Micael\Desktop\ProjetosDevDeVerdade\CrudAlunos\CrudAlunos\CrudAlunos.Domain\bin\Debug\net8.0\CrudAlunos.Domain.pdb
+C:\Users\Micael\Desktop\ProjetosDevDeVerdade\CrudAlunos\CrudAlunos\CrudAlunos.Domain\obj\Debug\net8.0\CrudAlunos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micael\Desktop\ProjetosDevDeVerdade\CrudAlunos\CrudAlunos\CrudAlunos.Domain\obj\Debug\net8.0\CrudAlunos.Domain.AssemblyInfoInputs.cache
+C:\Users\Micael\Desktop\ProjetosDevDeVerdade\CrudAlunos\CrudAlunos\CrudAlunos.Domain\obj\Debug\net8.0\CrudAlunos.Domain.AssemblyInfo.cs
+C:\Users\Micael\Desktop\ProjetosDevDeVerdade\CrudAlunos\CrudAlunos\CrudAlunos.Domain\obj\Debug\net8.0\CrudAlunos.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Micael\Desktop\ProjetosDevDeVerdade\CrudAlunos\CrudAlunos\CrudAlunos.Domain\obj\Debug\net8.0\CrudAlunos.Domain.sourcelink.json
+C:\Users\Micael\Desktop\ProjetosDevDeVerdade\CrudAlunos\CrudAlunos\CrudAlunos.Domain\obj\Debug\net8.0\CrudAlunos.Domain.dll
+C:\Users\Micael\Desktop\ProjetosDevDeVerdade\CrudAlunos\CrudAlunos\CrudAlunos.Domain\obj\Debug\net8.0\refint\CrudAlunos.Domain.dll
+C:\Users\Micael\Desktop\ProjetosDevDeVerdade\CrudAlunos\CrudAlunos\CrudAlunos.Domain\obj\Debug\net8.0\CrudAlunos.Domain.pdb
+C:\Users\Micael\Desktop\ProjetosDevDeVerdade\CrudAlunos\CrudAlunos\CrudAlunos.Domain\obj\Debug\net8.0\ref\CrudAlunos.Domain.dll

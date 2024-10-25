@@ -6,4 +6,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CrudAlunos.Application\CrudAlunos.Application.csproj" />
+    <ProjectReference Include="..\CrudAlunos.Domain\CrudAlunos.Domain.csproj" />
+    <ProjectReference Include="..\CrudAlunos.infra.Data\CrudAlunos.Infra.Data.csproj" />
+  </ItemGroup>
+
 </Project>

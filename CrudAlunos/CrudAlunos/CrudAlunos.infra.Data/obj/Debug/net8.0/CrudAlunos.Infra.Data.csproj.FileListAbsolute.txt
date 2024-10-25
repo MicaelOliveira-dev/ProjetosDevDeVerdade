@@ -1,0 +1,16 @@
+C:\Users\Micael\Desktop\ProjetosDevDeVerdade\CrudAlunos\CrudAlunos\CrudAlunos.infra.Data\bin\Debug\net8.0\CrudAlunos.Infra.Data.deps.json
+C:\Users\Micael\Desktop\ProjetosDevDeVerdade\CrudAlunos\CrudAlunos\CrudAlunos.infra.Data\bin\Debug\net8.0\CrudAlunos.Infra.Data.dll
+C:\Users\Micael\Desktop\ProjetosDevDeVerdade\CrudAlunos\CrudAlunos\CrudAlunos.infra.Data\bin\Debug\net8.0\CrudAlunos.Infra.Data.pdb
+C:\Users\Micael\Desktop\ProjetosDevDeVerdade\CrudAlunos\CrudAlunos\CrudAlunos.infra.Data\bin\Debug\net8.0\CrudAlunos.Domain.dll
+C:\Users\Micael\Desktop\ProjetosDevDeVerdade\CrudAlunos\CrudAlunos\CrudAlunos.infra.Data\bin\Debug\net8.0\CrudAlunos.Domain.pdb
+C:\Users\Micael\Desktop\ProjetosDevDeVerdade\CrudAlunos\CrudAlunos\CrudAlunos.infra.Data\obj\Debug\net8.0\CrudAlunos.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\Micael\Desktop\ProjetosDevDeVerdade\CrudAlunos\CrudAlunos\CrudAlunos.infra.Data\obj\Debug\net8.0\CrudAlunos.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micael\Desktop\ProjetosDevDeVerdade\CrudAlunos\CrudAlunos\CrudAlunos.infra.Data\obj\Debug\net8.0\CrudAlunos.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Micael\Desktop\ProjetosDevDeVerdade\CrudAlunos\CrudAlunos\CrudAlunos.infra.Data\obj\Debug\net8.0\CrudAlunos.Infra.Data.AssemblyInfo.cs
+C:\Users\Micael\Desktop\ProjetosDevDeVerdade\CrudAlunos\CrudAlunos\CrudAlunos.infra.Data\obj\Debug\net8.0\CrudAlunos.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Micael\Desktop\ProjetosDevDeVerdade\CrudAlunos\CrudAlunos\CrudAlunos.infra.Data\obj\Debug\net8.0\CrudAlunos.Infra.Data.sourcelink.json
+C:\Users\Micael\Desktop\ProjetosDevDeVerdade\CrudAlunos\CrudAlunos\CrudAlunos.infra.Data\obj\Debug\net8.0\CrudAlun.4E837FB5.Up2Date
+C:\Users\Micael\Desktop\ProjetosDevDeVerdade\CrudAlunos\CrudAlunos\CrudAlunos.infra.Data\obj\Debug\net8.0\CrudAlunos.Infra.Data.dll
+C:\Users\Micael\Desktop\ProjetosDevDeVerdade\CrudAlunos\CrudAlunos\CrudAlunos.infra.Data\obj\Debug\net8.0\refint\CrudAlunos.Infra.Data.dll
+C:\Users\Micael\Desktop\ProjetosDevDeVerdade\CrudAlunos\CrudAlunos\CrudAlunos.infra.Data\obj\Debug\net8.0\CrudAlunos.Infra.Data.pdb
+C:\Users\Micael\Desktop\ProjetosDevDeVerdade\CrudAlunos\CrudAlunos\CrudAlunos.infra.Data\obj\Debug\net8.0\ref\CrudAlunos.Infra.Data.dll

@@ -14,4 +14,8 @@
     <Folder Include="Controllers\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CrudAlunos.Infra.Ioc\CrudAlunos.Infra.Ioc.csproj" />
+  </ItemGroup>
+
 </Project>

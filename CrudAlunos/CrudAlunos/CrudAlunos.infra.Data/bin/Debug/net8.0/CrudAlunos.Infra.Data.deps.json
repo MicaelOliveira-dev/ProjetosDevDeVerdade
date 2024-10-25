@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CrudAlunos.Infra.Data/1.0.0": {
+        "dependencies": {
+          "CrudAlunos.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CrudAlunos.Infra.Data.dll": {}
+        }
+      },
+      "CrudAlunos.Domain/1.0.0": {
+        "runtime": {
+          "CrudAlunos.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CrudAlunos.Infra.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CrudAlunos.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

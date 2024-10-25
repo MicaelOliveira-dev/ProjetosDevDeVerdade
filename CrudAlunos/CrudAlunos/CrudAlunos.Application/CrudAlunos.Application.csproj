@@ -13,4 +13,8 @@
     <Folder Include="Services\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CrudAlunos.Domain\CrudAlunos.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
