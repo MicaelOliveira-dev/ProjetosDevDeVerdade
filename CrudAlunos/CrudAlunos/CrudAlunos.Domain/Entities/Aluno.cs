@@ -12,8 +12,11 @@ namespace CrudAlunos.Domain.Entities
         [Required(ErrorMessage = "Nome do responsavel é Obrigatório")]
         [StringLength(100, ErrorMessage = "O nome do responsavel não pode ter mais de 100 caracteres")]
         public string NomeResponsavel { get; set; }
+        [Required(ErrorMessage = "Senha é Obrigatório")]
+        [StringLength(100, ErrorMessage = "A Senha não pode ter mais de 100 caracteres")]
+        public string SenhaHash { get; set; }
         [Required(ErrorMessage = "Telefone é Obrigatório")]
-        [StringLength(50, ErrorMessage = "O telefone não pode ter mais de 50 caracteres")]
+        [StringLength(50, ErrorMessage = "O telefone não pode ter mais de 50 caracteres")]        
         public string Telefone { get; set; }
         [Required(ErrorMessage = "Data de Nascimento é Obrigatório")]
         [DisplayFormat(DataFormatString = "dd/mm/yyyy")]

@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace CrudAlunos.Infra.Data.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20241025194851_AlunosTabela")]
+    [Migration("20241025195703_AlunosTabela")]
     partial class AlunosTabela
     {
         /// <inheritdoc />
@@ -71,6 +71,11 @@ namespace CrudAlunos.Infra.Data.Migrations
 
                     b.Property<int>("NumeroCasa")
                         .HasColumnType("int");
+
+                    b.Property<string>("SenhaHash")
+                        .IsRequired()
+                        .HasMaxLength(100)
+                        .HasColumnType("nvarchar(100)");
 
                     b.Property<string>("Telefone")
                         .IsRequired()

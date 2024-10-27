@@ -69,6 +69,11 @@ namespace CrudAlunos.Infra.Data.Migrations
                     b.Property<int>("NumeroCasa")
                         .HasColumnType("int");
 
+                    b.Property<string>("SenhaHash")
+                        .IsRequired()
+                        .HasMaxLength(100)
+                        .HasColumnType("nvarchar(100)");
+
                     b.Property<string>("Telefone")
                         .IsRequired()
                         .HasMaxLength(50)

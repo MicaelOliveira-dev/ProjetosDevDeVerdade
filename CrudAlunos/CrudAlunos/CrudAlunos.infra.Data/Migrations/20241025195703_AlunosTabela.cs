@@ -18,6 +18,7 @@ namespace CrudAlunos.Infra.Data.Migrations
                     NMatricula = table.Column<Guid>(type: "uniqueidentifier", nullable: false),
                     NomeAluno = table.Column<string>(type: "nvarchar(100)", maxLength: 100, nullable: false),
                     NomeResponsavel = table.Column<string>(type: "nvarchar(100)", maxLength: 100, nullable: false),
+                    SenhaHash = table.Column<string>(type: "nvarchar(100)", maxLength: 100, nullable: false),
                     Telefone = table.Column<string>(type: "nvarchar(50)", maxLength: 50, nullable: false),
                     DataNascimento = table.Column<DateTime>(type: "datetime2", nullable: false),
                     Cpf = table.Column<string>(type: "nvarchar(50)", maxLength: 50, nullable: false),
