@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CrudAlunos.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc64a7a9b178a4fa54cbb2ff3ecefc14c0948efd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17242091a95e5d8a9f5add155131958d09d6d1fd")]
 [assembly: System.Reflection.AssemblyProductAttribute("CrudAlunos.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CrudAlunos.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

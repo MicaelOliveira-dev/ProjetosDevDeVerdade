@@ -3,6 +3,7 @@ using CrudAlunos.Application.DTOs;
 using CrudAlunos.Application.Interfaces;
 using CrudAlunos.Domain.Entities;
 using CrudAlunos.Domain.Interfaces;
+using System.Formats.Asn1;
 namespace CrudAlunos.Application.Services
 {
     public class AlunoService : IAlunoService
@@ -32,6 +33,24 @@ namespace CrudAlunos.Application.Services
 
             await _alunoRepository.CreateAluno(aluno);
 
+            return new AlunoDto
+            {
+                NomeAluno = aluno.NomeAluno,
+                NomeResponsavel = aluno.NomeResponsavel,
+                Telefone = aluno.Telefone,
+                DataNascimento = aluno.DataNascimento,
+                Cpf = aluno.Cpf,
+                Cep = aluno.Cep,
+                Endereco = aluno.Endereco,
+                Bairro = aluno.Bairro,
+                Cidade = aluno.Cidade,
+                NumeroCasa = aluno.NumeroCasa,
+            };
+        }
+
+        public async Task<AlunoDto> GetAlunoAsync(Guid NMatricula)
+        {
+            var aluno = await _alunoRepository.GetAluno(NMatricula);
             return new AlunoDto
             {
                 NomeAluno = aluno.NomeAluno,

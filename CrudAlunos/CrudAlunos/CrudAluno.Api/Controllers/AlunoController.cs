@@ -30,5 +30,19 @@ namespace CrudAluno.Api.Controllers
                 return BadRequest(ex.Message);
             }
         }
+
+        [HttpGet("Aluno")]
+        public async Task<IActionResult> GetAluno(Guid NMatricula)
+        {
+            try
+            {
+                var aluno = await _alunoService.GetAlunoAsync(NMatricula);
+                return Ok(aluno);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
+        }
     }
 }

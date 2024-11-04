@@ -10,5 +10,6 @@ namespace CrudAlunos.Application.Interfaces
     public interface IAlunoService
     {
         Task<AlunoDto> CreateAluno(AlunoDto AlunoDto);
+        Task<AlunoDto> GetAlunoAsync(Guid NMatricula);
     }
 }
