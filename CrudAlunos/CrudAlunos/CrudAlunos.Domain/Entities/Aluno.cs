@@ -12,6 +12,11 @@ namespace CrudAlunos.Domain.Entities
         [StringLength(100, ErrorMessage = "O nome não pode ter mais de 100 caracteres")]
         public string NomeAluno { get; set; }
 
+        [Required(ErrorMessage = "Email é Obrigatório")]
+        [StringLength(100, ErrorMessage = "O email não pode ter mais de 100 caracteres")]
+        [EmailAddress(ErrorMessage = "Formato de email inválido")]
+        public string Email { get; set; }
+
         [Required(ErrorMessage = "Nome do responsavel é Obrigatório")]
         [StringLength(100, ErrorMessage = "O nome do responsavel não pode ter mais de 100 caracteres")]
         public string NomeResponsavel { get; set; }

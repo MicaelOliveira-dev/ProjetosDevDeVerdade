@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CrudAlunos.Infra.Ioc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17242091a95e5d8a9f5add155131958d09d6d1fd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5d4e29e754e3a049cf3f612db782144c1940db3")]
 [assembly: System.Reflection.AssemblyProductAttribute("CrudAlunos.Infra.Ioc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CrudAlunos.Infra.Ioc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

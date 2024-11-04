@@ -19,6 +19,7 @@ namespace CrudAlunos.Application.Services
             var aluno = new Aluno
             {
                 NomeAluno = AlunoDto.NomeAluno,
+                Email = AlunoDto.Email,
                 NomeResponsavel = AlunoDto.NomeResponsavel,
                 SenhaHash = PasswordHelper.HashPassword(AlunoDto.SenhaHash),
                 Telefone = AlunoDto.Telefone,
@@ -36,6 +37,7 @@ namespace CrudAlunos.Application.Services
             return new AlunoDto
             {
                 NomeAluno = aluno.NomeAluno,
+                Email = aluno.Email,
                 NomeResponsavel = aluno.NomeResponsavel,
                 Telefone = aluno.Telefone,
                 DataNascimento = aluno.DataNascimento,
@@ -54,6 +56,7 @@ namespace CrudAlunos.Application.Services
             return new AlunoDto
             {
                 NomeAluno = aluno.NomeAluno,
+                Email = aluno.Email,
                 NomeResponsavel = aluno.NomeResponsavel,
                 Telefone = aluno.Telefone,
                 DataNascimento = aluno.DataNascimento,

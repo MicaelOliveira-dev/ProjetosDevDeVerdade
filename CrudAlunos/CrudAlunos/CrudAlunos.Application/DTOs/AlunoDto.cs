@@ -11,6 +11,9 @@ namespace CrudAlunos.Application.DTOs
         [Required(ErrorMessage = "Nome do Responsável é Obrigatório")]
         public string NomeResponsavel { get; set; }
 
+        [Required(ErrorMessage = "Email do Responsável é Obrigatório")]
+        public string Email { get; set; }
+
         [Required(ErrorMessage = "Senha é Obrigatório")]
         public string SenhaHash { get; set; }
 

@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace CrudAlunos.Infra.Data.Migrations
 {
     /// <inheritdoc />
-    public partial class AlunosTabela : Migration
+    public partial class CriandoTable : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -17,12 +17,13 @@ namespace CrudAlunos.Infra.Data.Migrations
                 {
                     NMatricula = table.Column<Guid>(type: "uniqueidentifier", nullable: false),
                     NomeAluno = table.Column<string>(type: "nvarchar(100)", maxLength: 100, nullable: false),
+                    Email = table.Column<string>(type: "nvarchar(100)", maxLength: 100, nullable: false),
                     NomeResponsavel = table.Column<string>(type: "nvarchar(100)", maxLength: 100, nullable: false),
                     SenhaHash = table.Column<string>(type: "nvarchar(100)", maxLength: 100, nullable: false),
                     Telefone = table.Column<string>(type: "nvarchar(50)", maxLength: 50, nullable: false),
-                    DataNascimento = table.Column<DateTime>(type: "datetime2", nullable: false),
-                    Cpf = table.Column<string>(type: "nvarchar(50)", maxLength: 50, nullable: false),
-                    Cep = table.Column<string>(type: "nvarchar(50)", maxLength: 50, nullable: false),
+                    DataNascimento = table.Column<DateOnly>(type: "date", nullable: false),
+                    Cpf = table.Column<string>(type: "nvarchar(14)", maxLength: 14, nullable: false),
+                    Cep = table.Column<string>(type: "nvarchar(10)", maxLength: 10, nullable: false),
                     Endereco = table.Column<string>(type: "nvarchar(100)", maxLength: 100, nullable: false),
                     Bairro = table.Column<string>(type: "nvarchar(100)", maxLength: 100, nullable: false),
                     Cidade = table.Column<string>(type: "nvarchar(100)", maxLength: 100, nullable: false),

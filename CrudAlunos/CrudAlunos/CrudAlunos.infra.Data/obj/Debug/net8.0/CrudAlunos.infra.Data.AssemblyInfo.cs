@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CrudAlunos.Infra.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc64a7a9b178a4fa54cbb2ff3ecefc14c0948efd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5d4e29e754e3a049cf3f612db782144c1940db3")]
 [assembly: System.Reflection.AssemblyProductAttribute("CrudAlunos.Infra.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CrudAlunos.Infra.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
