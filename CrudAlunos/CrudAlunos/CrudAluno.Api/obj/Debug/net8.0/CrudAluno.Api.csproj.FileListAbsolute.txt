@@ -149,3 +149,4 @@ C:\Users\Micael\Desktop\ProjetosDevDeVerdade\CrudAlunos\CrudAlunos\CrudAluno.Api
 C:\Users\Micael\Desktop\ProjetosDevDeVerdade\CrudAlunos\CrudAlunos\CrudAluno.Api\obj\Debug\net8.0\CrudAluno.Api.pdb
 C:\Users\Micael\Desktop\ProjetosDevDeVerdade\CrudAlunos\CrudAlunos\CrudAluno.Api\obj\Debug\net8.0\CrudAluno.Api.genruntimeconfig.cache
 C:\Users\Micael\Desktop\ProjetosDevDeVerdade\CrudAlunos\CrudAlunos\CrudAluno.Api\obj\Debug\net8.0\ref\CrudAluno.Api.dll
+C:\Users\Micael\Desktop\ProjetosDevDeVerdade\CrudAlunos\CrudAlunos\CrudAluno.Api\bin\Debug\net8.0\BCrypt.Net-Next.dll

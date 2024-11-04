@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CrudAluno.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7165210bd1a251a5f1acf2bf9516e8679e86d715")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc64a7a9b178a4fa54cbb2ff3ecefc14c0948efd")]
 [assembly: System.Reflection.AssemblyProductAttribute("CrudAluno.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CrudAluno.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
